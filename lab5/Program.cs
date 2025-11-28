@@ -1,6 +1,7 @@
 ﻿
 
-using ProductNamespace;
+using _5.lab5;
+
 public class Program
 {
     public static void Main(string[] args)
